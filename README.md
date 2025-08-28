@@ -30,7 +30,7 @@ b = temp
 print(f"Swapped values are: {a} {b}")
 ```
 ## OUTPUT:
-![alt text](image.png)
+https://github.com/HIRU-VIRU/Swapping-two-values/blob/main/image.png
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
